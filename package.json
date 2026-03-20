@@ -1,5 +1,6 @@
 {
-  "name": "react-example",
+  "name": "markdown-fast-editor",
+  "description": "A high-performance, real-time multi-user Markdown editor.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
