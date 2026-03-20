@@ -1,0 +1,5 @@
+{
+  "name": "Markdown Fast Editor",
+  "description": "A high-performance, real-time multi-user Markdown editor with live preview, split-pane layout, and advanced search.",
+  "requestFramePermissions": []
+}
